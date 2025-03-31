@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+
+}
+header {
+    background-color: rgb(134, 121, 194);
+    margin: 20px;
+    padding: 15px;
+    border: 5px solid rgb(158, 43, 114);
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+div {
+    background-color: rgb(30, 90, 117);
+    width: auto;
+    border: 15px solid rebeccapurple;
+    padding: 50px;
+    margin: 20px;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.navbar {
+    display: flex;
+    margin-right: 10px;
+
+}
+.navbar a {
+    display: block;
+    padding: 20px 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background: #8903a33f;
+}
